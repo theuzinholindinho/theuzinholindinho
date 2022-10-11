@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou @theuzinholindinho
+- 👀 Estou interessado em aprender a programar em novos idiomas e tipos de programação
+- 🌱 Estou aprendendo JavaScript e Scratch no momento
+- 🏫 Estou matriculado no Instituto de Educação do Paraná Professor Erasmo Pilotto, ou IEP
+- 📱 
